@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>../../Downloads/110-1108218_managment-booking-calendar-check-icon (1).jpg</file>
+  </qresource>
+</RCC>
